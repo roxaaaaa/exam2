@@ -1,0 +1,6 @@
+pen 4 50
+pencil 5 50
+book1 10 15
+book2 12 90
+copybook 15 75
+diary 4 50
