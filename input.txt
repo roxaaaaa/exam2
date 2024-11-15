@@ -1,0 +1,5 @@
+audi Q7 50000 250
+Kia Sportage 38000 150
+Tesla Model 3 60000 280
+Volkswagen ID 72000 200
+Hyundai Ioniq 6 70000 190
