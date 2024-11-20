@@ -1,0 +1,12 @@
+smoker,day,time,bill,tip,sex
+smoker,Thursday,morning,260,35,m
+smoker,Friday,lunch,240,45,m
+smoker,Saturday,morning,340,60,f
+non-smoker,Monday,afternoon,210,45,m
+smoker,Monday,morning,250,55,f
+non-smoker,Sunday,lunch,350,50,m
+smoker,Tuesday,lunch,180,15,f
+non-smoker,Sunday,afternoon,150,20,f
+smoker,Thursday,lunch,380,80,m
+non-smoker,Friday,lunch,250,30,f
+smoker,Tuesday,lunch,175,20,m
