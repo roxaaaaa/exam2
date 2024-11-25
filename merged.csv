@@ -1,0 +1,8 @@
+car_id,make,model,year,color,engine_type,hp,torque,transmission,price
+1,Toyota,Corolla,2020,Red,Gasoline,139,126,Automatic,20000
+2,Ford,F-150,2019,Blue,Gasoline,290,400,Automatic,35000
+3,Honda,Civic,2021,Black,Gasoline,158,138,Manual,22000
+4,Chevrolet,Malibu,2020,White,Gasoline,160,184,Automatic,25000
+5,Tesla,Model 3,2022,Silver,Electric,283,420,Automatic,45000
+6,Tesla,Model 3,2020,White,Electric,250,410,Automatic,39000
+7,Tesla,Model S,2023,Blue,Electric,1020,1050,Automatic,95000
